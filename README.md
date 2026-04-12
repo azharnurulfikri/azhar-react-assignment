@@ -18,7 +18,8 @@ Di bawah ini adalah daftar tugas yang dikerjakan per pertemuan:
 | Folder | Nama Proyek | Deskripsi | Status |
 | :--- | :--- | :--- | :---: |
 | 📁 `pertemuan-1-booksales` | **BookSales Landing Page** | Implementasi React, Bootstrap (Navbar, Hero, Album, Team, & Contact). | ✅ Selesai |
-| 📁 `pertemuan-2-next` | *Coming Soon* | Tugas selanjutnya akan diupdate di sini. | ⏳ Pending |
+| 📁 `pertemuan-2-book-sales` | **BookSales Routing & Login** | Implementasi React Router (SPA), Navigasi Link, & Form Login. | ✅ Selesai |
+| 📁 `pertemuan-3-next` | *Coming Soon* | Tugas selanjutnya akan diupdate di sini. | ⏳ Pending |
 
 ---
 
